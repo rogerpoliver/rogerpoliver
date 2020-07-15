@@ -11,4 +11,4 @@ I'm Roger Oliveira, I'm from Porto Alegre and currently I work as Software Engin
 
 - 💻 Working with .Net, React, TypeScript and NodeJs.
 - 🤘🏻 Games, geek culture and technology ennthusiast.
-- 📩 Feel free to [e-mail](mailto:rogerpolvr@gmail.com)
+- 📩 Feel free to [e-mail](mailto:rogerpolvr@gmail.com) me
