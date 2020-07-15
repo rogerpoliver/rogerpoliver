@@ -7,8 +7,13 @@
 
 ## Hey folks! ✌🏻
 
-I'm Roger Oliveira, I'm from Porto Alegre and currently I work as Software Engineer for HP Inc in Brazil Labs.
+I'm Roger Oliveira. Currently working as Software Engineer for HP Inc in Brazil Labs.
+
+Here are some informations about me.
 
 - 💻 Working with .Net, React, TypeScript and NodeJs.
-- 🤘🏻 Games, geek culture and technology ennthusiast.
-- 📩 Feel free to [e-mail](mailto:rogerpolvr@gmail.com) me
+- 🎓 Bachelor of Technology in Software Analysis and Development. 
+- :earth_americas: Porto Alegre - Brazil.
+- :video_game: Games, geek culture and technology ennthusiast.
+- :musical_keyboard: I'm trying to taught myself piano.
+- 📩 Feel free to [e-mail](mailto:rogerpolvr@gmail.com) me.
