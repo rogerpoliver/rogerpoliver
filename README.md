@@ -13,7 +13,7 @@ Here are some informations about me.
 
 - 💻 Working with .Net, React, TypeScript and NodeJs.
 - 🎓 Bachelor of Technology in Software Analysis and Development. 
-- :brazil: Porto Alegre - Brazil.
+- :earth_americas: Porto Alegre - Brazil.
 - :video_game: Games, geek culture and technology ennthusiast.
 - :musical_keyboard: I'm trying to taught myself piano.
 - 📩 Feel free to [e-mail](mailto:rogerpolvr@gmail.com) me.
