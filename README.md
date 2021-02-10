@@ -4,15 +4,15 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rogerpolvr)
 <img src="https://komarev.com/ghpvc/?username=rogerpolvr" alt="RogerPolvr" /> </p>
 
-## Oi! ✌🏻
+## Oi! Segue aí ✌🏻
 
 I'm Roger Oliveira. Currently working as Software Engineer for HP Inc in Brazil Labs.
 
 Here are some informations about me.
 
-- 💻 Working with .Net, React, TypeScript and NodeJs.
-- 🎓 Bachelor of Technology in Software Analysis and Development. 
+- 💻 Working with .Net Core, React and TypeScript.
+- 🎓 Bachelor of Technology in Software Analysis and Development (FIAP - SP).
+- 🎓 Postgraduate student in Data Science and Machine Learning (UniRitter - RS).
 - :earth_americas: Porto Alegre - Brazil.
 - :video_game: Games, geek culture and technology ennthusiast.
-- :musical_keyboard: I'm trying to taught myself piano.
 - 📩 Feel free to [e-mail](mailto:rogerpolvr@gmail.com) me.
