@@ -6,7 +6,7 @@
 
 ## Oi! Segue aí ✌🏻
 
-I'm Roger Oliveira. Currently working as Software Engineer for HP Inc in Brazil Labs.
+I'm Roger Oliveira. Currently working as Software Engineer for HP Inc - Brazil Labs.
 
 Here are some informations about me.
 
