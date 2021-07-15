@@ -12,7 +12,8 @@ Here are some informations about me.
 
 - 💻 Working with .Net Core, React and TypeScript.
 - 🎓 Bachelor of Technology in Software Analysis and Development (FIAP - SP).
-- 🎓 Postgraduate student in Data Science and Machine Learning (UniRitter - RS).
+- 🎓 Specialization student in Data Science (UniRitter - RS).
+- 🎓 Specialization student in Software Engineering (Unisinos - RS).
 - :earth_americas: Porto Alegre - Brazil.
 - :video_game: Games, geek culture and technology ennthusiast.
 - 📩 Feel free to [e-mail](mailto:rogerpolvr@gmail.com) me.
