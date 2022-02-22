@@ -10,7 +10,8 @@ I'm Roger Oliveira.
 
 Here are some informations about me.
 
-- 💻 Working with .Net Core, React and TypeScript.
+- 💻 Working with NodeJS.
+- 🧙🏻‍♂️ Currently studying Elixir.
 - 🎓 Bachelor of Technology in Software Analysis and Development (FIAP - SP).
 - 🎓 Specialization student in Data Science (UniRitter - RS).
 - 🎓 Specialization student in Software Engineering (Unisinos - RS).
