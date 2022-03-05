@@ -10,7 +10,7 @@ I'm Roger Oliveira.
 
 Here are some informations about me.
 
-- 💻 Working with NodeJS.
+- 💻 Currently working as Product Owner for Buzzfeed Brazil.
 - 🧙🏻‍♂️ Currently studying Elixir.
 - 🎓 Bachelor of Technology in Software Analysis and Development (FIAP - SP).
 - 🎓 Specialization student in Data Science (UniRitter - RS).
