@@ -3,13 +3,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rogerpoliver)
 <img src="https://komarev.com/ghpvc/?username=rogerpolvr" alt="View Count" /> </p>
 
-Hey! I'm Roger Oliveira.
-- 👨🏻‍💻 I'm working as Senior Software Engineer at ADP Brazil Labs.
-- 🎓 Bachelor of Technology in Software Analysis and Development, 2020 (FIAP - SP).
-- 🎓 Specialization in Data Science, 2021 (UniRitter - RS).
-- 🎓 Specialization in Software Engineering, 2022 (Unisinos - RS).
+Hey! I'm Roger Oliveira 👋🏼
+- 👨🏻‍💻 I'm working as Senior Software Engineer at ADP Brazil Labs
+- 🎓 Bachelor of Technology in Software Analysis and Development, 2020 (FIAP - SP)
+- 🎓 Specialization in Data Science, 2021 (UniRitter - RS)
+- 🎓 Specialization in Software Engineering, 2022 (Unisinos - RS)
 - 🎓 Specialization student in Cross-platform Mobile App Development, 2024 (Descomplica - RJ)
-- :earth_americas: Porto Alegre - Brazil.
+- :earth_americas: Porto Alegre - Brazil
 
 ##### I'm currently working with:
 [<img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="35"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
