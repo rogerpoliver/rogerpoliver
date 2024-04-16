@@ -35,7 +35,7 @@ Hey! I'm Roger Oliveira 👋🏼
 [<img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="35"/>]()&nbsp;&nbsp;
 
 ##### Technologies I'm interested in:
-[<img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" width="35"/>]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=ocaml" alt="OCaml" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=nix" alt="Nix" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=v" alt="V" width="35"/>]()&nbsp;&nbsp;
