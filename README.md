@@ -32,7 +32,7 @@ Hey! I'm Roger Oliveira 👋🏼
 [<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=next" alt="Next" width="35"/>]()&nbsp;&nbsp;
-[<img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="35"/>]()&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="35"/>]()&nbsp;&nbsp;
 
 ##### Technologies I'm interested in:
 [<img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" width="35"/>]()&nbsp;&nbsp;
