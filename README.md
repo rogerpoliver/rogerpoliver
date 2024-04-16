@@ -17,7 +17,7 @@ Hey! I'm Roger Oliveira.
 [<img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="35"/>](https://nodejs.org/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=dotnet" alt="DotNet" width="35"/>](https://nodejs.org/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="35"/>](https://tailwindcss.com/)&nbsp;&nbsp;
-[<img src="images/stenciljs.png" alt="Stencil" width="35"/>](https://stenciljs.com/)&nbsp;&nbsp;
+[<img src="assets/stenciljs.jpg" alt="Stencil" width="35"/>](https://stenciljs.com/)&nbsp;&nbsp;
 
 ##### My dev environment:
 [<img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim" width="35"/>]()&nbsp;&nbsp;
