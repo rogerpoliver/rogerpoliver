@@ -2,7 +2,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rogerpoliver)
 <img src="https://komarev.com/ghpvc/?username=rogerpolvr" alt="View Count" /> </p>
 
-Hey! I'm Roger Oliveira 👋🏼
+# Hey! I'm Roger Oliveira 👋🏼
 - 👨🏻‍💻 I'm working as Senior Software Engineer at ADP Brazil Labs
 - 🎓 Bachelor of Technology in Software Analysis and Development, 2020 (FIAP - SP)
 - 🎓 Specialization in Data Science, 2021 (UniRitter - RS)
@@ -10,7 +10,7 @@ Hey! I'm Roger Oliveira 👋🏼
 - 🎓 Specialization student in Cross-platform Mobile App Development, 2024 (Descomplica - RJ)
 - :earth_americas: Porto Alegre - Brazil
 
-##### I'm currently working with:
+### I'm currently working with:
 [<img src="https://skillicons.dev/icons?i=ts" alt="Typescript" width="35"/>](https://www.typescriptlang.org/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=react" alt="React" width="35"/>](https://reactjs.org/)&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" width="35"/>](https://nodejs.org/)&nbsp;&nbsp;
@@ -18,7 +18,7 @@ Hey! I'm Roger Oliveira 👋🏼
 [<img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="35"/>](https://tailwindcss.com/)&nbsp;&nbsp;
 [<img src="assets/stenciljs.jpg" alt="Stencil" width="35"/>](https://stenciljs.com/)&nbsp;&nbsp;
 
-##### My dev environment:
+### My dev environment:
 [<img src="https://skillicons.dev/icons?i=neovim" alt="NeoVim" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=apple" alt="Apple" width="35"/>]()&nbsp;&nbsp;
@@ -26,7 +26,7 @@ Hey! I'm Roger Oliveira 👋🏼
 [<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu Server" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="35"/>]()&nbsp;&nbsp;
 
-##### I'm currently studying:
+### I'm currently studying:
 [<img src="https://skillicons.dev/icons?i=go" alt="Go" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="35"/>]()&nbsp;&nbsp;
@@ -34,7 +34,7 @@ Hey! I'm Roger Oliveira 👋🏼
 [<img src="https://skillicons.dev/icons?i=next" alt="Next" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="35"/>]()&nbsp;&nbsp;
 
-##### Technologies I'm interested in:
+### Technologies I'm interested in:
 [<img src="https://skillicons.dev/icons?i=haskell" alt="Haskell" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=ocaml" alt="OCaml" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=nix" alt="Nix" width="35"/>]()&nbsp;&nbsp;
@@ -43,7 +43,9 @@ Hey! I'm Roger Oliveira 👋🏼
 [<img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" width="35"/>]()&nbsp;&nbsp;
 
 
-#### Technologies that I have used in my last 9 years of experience:  
+### Technologies that I have used in my last 9 years of experience:  
+It doesn't mean I master them, but I definitely solved some problems using them (or even created new ones 😂😂😂)
+
 [<img src="https://skillicons.dev/icons?i=cs" alt="C Sharp" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=dotnet" alt="Dot Net" width="35"/>]()&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="35"/>]()&nbsp;&nbsp;
