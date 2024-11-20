@@ -7,7 +7,8 @@
 - 🎓 Bachelor of Technology in Software Analysis and Development, 2020 (FIAP - SP)
 - 🎓 Specialization in Data Science, 2021 (UniRitter - RS)
 - 🎓 Specialization in Software Engineering, 2022 (Unisinos - RS)
-- 🎓 Specialization student in Cross-platform Mobile App Development, 2024 (Descomplica - RJ)
+- 🎓 Specialization in Cross-platform Mobile App Development, 2024 (Descomplica - RJ)
+- 🎓 MBA in People Management and Leadership, 2024 (Descomplica - RJ)
 - :earth_americas: Porto Alegre - Brazil
 
 ### I'm currently working with:
