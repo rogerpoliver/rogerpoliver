@@ -4,7 +4,7 @@
 
 # Hey! I'm Roger Oliveira 👋🏼
 - 👨🏻‍💻 I'm working as Senior Software Engineer at ADP Brazil Labs
-- 🎓 Bachelor of Technology in Software Analysis and Development, 2020 (FIAP - SP)
+- 🎓 Graduated in Software Analysis and Development, 2020 (FIAP - SP)
 - 🎓 Specialization in Data Science, 2021 (UniRitter - RS)
 - 🎓 Specialization in Software Engineering, 2022 (Unisinos - RS)
 - 🎓 Specialization in Cross-platform Mobile App Development, 2024 (Descomplica - RJ)
