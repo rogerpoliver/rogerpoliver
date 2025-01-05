@@ -44,7 +44,7 @@
 [<img src="https://skillicons.dev/icons?i=htmx" alt="HTMX" width="35"/>]()&nbsp;&nbsp;
 
 
-### Technologies that I have used in my last 9 years of experience:  
+### Technologies that I have used in my last 10 years of experience:  
 It doesn't mean I master them, but I definitely solved some problems using them (or even created new ones 😂😂😂)
 
 [<img src="https://skillicons.dev/icons?i=cs" alt="C Sharp" width="35"/>]()&nbsp;&nbsp;
