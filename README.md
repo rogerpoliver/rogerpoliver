@@ -2,7 +2,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rogerpoliver)
 <img src="https://komarev.com/ghpvc/?username=rogerpolvr" alt="View Count" /> </p>
 
-# Hey! I'm Roger Oliveira 👋🏼
+# Hey! I'm Roger Oliveirr 👋🏼
 - 👨🏻‍💻 I'm working as Senior Software Engineer at ADP Brazil Labs
 - 🎓 Graduated in Software Analysis and Development, 2020 (FIAP - SP)
 - 🎓 Specialization in Data Science, 2021 (UniRitter - RS)
