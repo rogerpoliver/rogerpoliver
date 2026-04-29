@@ -3,9 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=rogerpolvr" alt="View Count" /> </p>
 
 # Hey! I'm Roger Oliveira 👋🏼
-- 👨🏻‍💻 Currently working as a contractor for a US-based company
+- 👨🏻‍💻 Currently working as contractor for a US-based company
 - 💼 Former ADP, Dell, HP
-- 🎓 Multiple specializations in Software Engineering, Data Science & Leadership
+- 🎓 Multiple specializations in Software Engineering, Machine Learning & Leadership
 - :earth_americas: Porto Alegre - Brazil
 
 ### I'm currently working with:
