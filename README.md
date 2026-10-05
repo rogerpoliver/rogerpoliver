@@ -6,6 +6,6 @@
 
 🔗 **[linkedin.com/in/rogerpoliver](https://www.linkedin.com/in/rogerpoliver)**
 
-<img src="https://komarev.com/ghpvc/?username=rogerpoliver&style=flat-square&color=00FF9C&labelColor=0D1117&label=views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rogerpolvr&style=flat-square&color=00FF9C&labelColor=0D1117&label=views" alt="Profile views" />
 
 </div>
