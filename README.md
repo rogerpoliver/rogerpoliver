@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Roger Oliveira — software engineer building with AI for US-based companies. HP, Dell, ADP, today. Porto Alegre, Brazil. Stack: C#, .NET, SQL Server, Azure, TypeScript, React. AI: Claude Code, Herdr, Agent Browser, Skills, MCP, Agents." width="880" />
+<img src="assets/banner.svg" alt="Roger Oliveira — Senior Software Engineer building with AI for US-based companies. HP, Dell, ADP, now independent contractor. Porto Alegre, Brazil. Stack, AI tooling and 10 years of experience icons." width="880" />
 
 <br />
 
